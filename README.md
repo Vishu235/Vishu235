@@ -1,5 +1,3 @@
-[![MasterHead]("https://miro.medium.com/max/1400/0*CHs47eo87tMPd_-q.gif")](https://rishavchanda.io)
-
 <h1 align="center">Hello there 👋, Iam Vishal Gopinath </h1>
 <h3 align="center">A Data Science Enthusiast from India</h3>
 
