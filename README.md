@@ -1,14 +1,14 @@
 <h1 align="center">Hello there 👋, Iam Vishal Gopinath </h1>
 <h3 align="center">A Data Science Enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif">
+<img align="right" alt="Coding" width="375" src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif">
 
 
 - 🌱 I’m currently extending my learning in **AI, ML and DL**
 
 - 👯 I’m looking to collaborate on **data science projects**
 
-- 📫 How to reach me **vishal.bglr@gmail.com**
+- 📫 How to reach me: **vishal.bglr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
