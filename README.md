@@ -18,8 +18,6 @@ AI Engineer with 4+ years of experience shipping production-grade Generative AI 
 - 🔧 Currently building enterprise LLM systems processing **10,000+ daily transactions** and **500+ customer interactions/day**
 - 🎓 Pursuing **M.Tech in Data Science & AI** at PES University (GPA: 9.8)
 - 🗣️ Designed Voice AI agents that automate **~70% of CSR calls** across English, French, and Spanish
-- 📄 **[Download my resume](https://vishu235.github.io/work-portfolio/Vishal_Gopinath_AI_Engineer_Resume.pdf)**
-
 ---
 
 ### Tech stack
