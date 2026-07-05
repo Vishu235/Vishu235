@@ -1,19 +1,51 @@
-<h1 align="center">Hello there 👋, Iam Vishal Gopinath </h1>
-<h3 align="center">A Data Science Enthusiast from India</h3>
+<h1 align="center">Vishal Gopinath</h1>
+<h3 align="center">AI Engineer · RAG systems, Voice AI, and LLM infrastructure at scale</h3>
 
-<img align="right" alt="Coding" width="375" src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif">
+<br>
 
-
-- 🌱 I’m currently extending my learning in **AI, ML and DL**
-
-- 👯 I’m looking to collaborate on **data science projects**
-
-- 📫 How to reach me: **vishal.bglr@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vishal-gopinath-22249683/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal gopinath" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://vishu235.github.io/work-portfolio/">🌐 Portfolio</a> · 
+  <a href="https://linkedin.com/in/vishal-gopinath">💼 LinkedIn</a> · 
+  <a href="mailto:vishal.bglr@gmail.com">📬 Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+### About
+
+AI Engineer with 4+ years of experience shipping production-grade Generative AI systems across finance and customer operations. I build RAG architectures, multilingual Voice AI agents, and intelligent automation platforms — not demos.
+
+- 🔧 Currently building enterprise LLM systems processing **10,000+ daily transactions** and **500+ customer interactions/day**
+- 🎓 Pursuing **M.Tech in Data Science & AI** at PES University (GPA: 9.8)
+- 🗣️ Designed Voice AI agents that automate **~70% of CSR calls** across English, French, and Spanish
+- 📄 **[Download my resume](https://vishu235.github.io/work-portfolio/Vishal_Gopinath_AI_Engineer_Resume.pdf)**
+
+---
+
+### Tech stack
+
+**LLMs & APIs** · OpenAI GPT-4 · Claude · Gemini · LLaMA · Mistral · Whisper  
+**Orchestration** · LangChain · LangGraph · LangSmith · RAG pipelines  
+**Vector stores** · Weaviate · Pinecone · Elasticsearch  
+**Infrastructure** · Python · Docker · Kubernetes · REST APIs · MySQL  
+**ML & AI** · NLP · Deep Learning · Search & Ranking · Multi-Agent Systems · Speech Processing  
+**Observability** · LangSmith · Weights & Biases  
+
+---
+
+### Featured work
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Enterprise RAG system** | Knowledge retrieval serving enterprise queries, 50%+ hallucination reduction | OpenAI, Weaviate, LangChain |
+| **Multilingual Voice AI** | Inbound/outbound voice agents across 3 languages, ~70% call automation | Whisper, STT/TTS, LangChain |
+| **Search & ranking engine** | Self-learning product pipeline, 10K+ orders/day | Elasticsearch, Python, ML |
+| **[DocuQuery AI](https://github.com/Vishu235/docuquery-ai-pageindex)** | Streamlit PDF Q&A app with intelligent page indexing | Streamlit, LangChain, Python |
+| **Call quality evaluation** | Automated multilingual CSR assessment, replaced manual QA | Whisper STT, NLP, LangSmith |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishu235&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=8892a4" alt="GitHub stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishu235&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=8892a4" alt="Top languages" height="160">
+</p>
